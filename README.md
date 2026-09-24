@@ -1,4 +1,4 @@
-# assistente-virtual-ia# 🎓 Assistente de Estudos com Inteligência Artificial
+ Assistente de Estudos com Inteligência Artificial
 
 ## Sobre o projeto
 
